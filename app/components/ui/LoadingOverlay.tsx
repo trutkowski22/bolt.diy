@@ -1,5 +1,5 @@
 export const LoadingOverlay = ({
-  message = 'Loading...',
+  message = 'Be Patient Fucker...',
   progress,
   progressText,
 }: {
